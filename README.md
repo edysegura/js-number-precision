@@ -2,7 +2,7 @@
 
 Simple examples in how to deal with precision calculations in JavaScript
 
-1. [Convert everything to integer](precision.js) - [[Run it]](http://jsbin.com/veqekepine/edit?js,console)
+1. [Convert everything to integer](precision.js) - [[Run it in JS]](http://jsbin.com/veqekepine/edit?js,console)
 
 ## References
 
